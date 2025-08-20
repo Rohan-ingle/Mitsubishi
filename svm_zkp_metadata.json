@@ -1,0 +1,12 @@
+{
+  "num_features": 30,
+  "weights_shape": [
+    1,
+    30
+  ],
+  "bias_shape": [
+    1
+  ],
+  "weights_commitment": "fd701c411a707b78f48fca10fb064435f12b137e5ff9143731c9c96fe702d077",
+  "bias_commitment": "88c255f6be60d80b85e9bf45b1eb0ba0afcc724e0f709ab2c3a0d871153924cc"
+}
