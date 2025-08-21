@@ -1,0 +1,10 @@
+{
+  "sample_id": 156861,
+  "prediction": 0,
+  "proof": {
+    "input_commitment": "1a329974449ba81891c42596bd634e6aef2c615b0ea08dd57cb4e50269cdae74",
+    "weights_commitment": "fcffc3262e0f6c320ffbdad70f06eac6a2e5f476fe35756c0cbf7537403060d4",
+    "prediction": 0,
+    "proof_id": "9623cddecbfd66f1"
+  }
+}
